@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162417453002",
+    "project_id": "khaliq-25671",
+    "storage_bucket": "khaliq-25671.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162417453002:android:ffceefa51085e82db8d133",
+        "android_client_info": {
+          "package_name": "com.example.mycollegeflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162417453002-nhr4dp637ndq2v7uf5diu7ne6e3l8c6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLS6gOK82uvX4TryHrmGYyeV1iqdIn6uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162417453002-nhr4dp637ndq2v7uf5diu7ne6e3l8c6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
